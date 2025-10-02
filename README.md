@@ -52,7 +52,7 @@ Bash
 streamlit run Stockpp.py
 The application will automatically open in your default web browser (usually at http://localhost:8501).
 
-🧠 Model Architecture
+Model Architecture
 The LSTM model employs a simple, effective sequential structure:
 
 Layer	Type	Units / Output Shape	Purpose
@@ -70,7 +70,7 @@ Optimizer: Adam
 
 Loss Function: Mean Squared Error (MSE)
 
-⚠️ Disclaimer
+Disclaimer
 This project is intended for educational and demonstration purposes only. It should not be used for making real-world trading decisions. Stock market prediction is highly complex and volatile, and the results from this model should be treated as an academic forecast.
 
 🤝 Contribution
